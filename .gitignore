@@ -1,0 +1,7 @@
+# Ignorar arquivos temporários e de compilação
+*.pkg.tar.zst
+*.log
+.cache/
+build/
+*~
+*.swp
